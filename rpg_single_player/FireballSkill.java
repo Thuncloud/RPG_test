@@ -1,0 +1,1 @@
+public class FireballSkill implements Skill { public String getName() { return "fireball"; } public void use(Player p, Monster m) {} }

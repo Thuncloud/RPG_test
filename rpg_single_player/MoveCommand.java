@@ -1,0 +1,1 @@
+public class MoveCommand implements Command { public void execute(Player p, GameContext c) {} }
